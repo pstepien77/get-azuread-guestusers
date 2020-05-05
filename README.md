@@ -13,6 +13,7 @@ $loginURL       = "https://login.windows.net"
 $tenantdomain   = "<your tenant name>.onmicrosoft.com"    # For example, contoso.onmicrosoft.com
 
 How to register application - https://docs.microsoft.com/en-us/graph/auth-v2-service
+
 Permission required - Appliction:Directory.Read.All
 
 Remember to consent to application !
