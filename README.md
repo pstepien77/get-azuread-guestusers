@@ -1,3 +1,4 @@
+```html
 # get-azuread-guestusers
 
 Retrieve all guest users from the Azure tenant (MS Graph REST API)
@@ -14,3 +15,4 @@ How to register application - https://docs.microsoft.com/en-us/graph/auth-v2-ser
 Permission required - Appliction:Directory.Read.All
 
 Remember to consent to application !
+```
